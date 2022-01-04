@@ -1,12 +1,12 @@
-bashupload.com
+bashupload.com				# PERMANENT
 btime1624.duckdns.org
-buttonrich.com
-cf.listencreep.com
+buttonrich.com				# 2022/01/04
+cf.listencreep.com			# 2022/01/04
 cf.normallibraryart.com
 cf1.baitexit.com
 cff.buttonrich.com
-clampuncture.com
-discriminatesection.com
+clampuncture.com			# 2021/06/29
+discriminatesection.com		# 2021/07/01
 evanescentcold.com
 fielinside.com
 forgetfulbig.com
@@ -30,6 +30,7 @@ pullscrewyell.com
 qaz.im
 recordingexperiment.com
 sawtiger.com
+se1.buttonrich.com			# 2022/01/04
 servebitch.com
 stimulatingroof.com
 strongeraliyas.com
