@@ -1,5 +1,5 @@
-198.97.62.8/29 		# ESC13 Tech
-104.153.243.232/29	# ESC13 Monitoring
-208.80.75.192/26	# ESC13 Firewall Testers
-mc.kevinwier.com	# ESC13 KW-Home
-208.123.73.0/24		# NetGate Support
+198.97.62.8/29        ESC13 Tech
+104.153.243.232/29    ESC13 Monitoring
+208.80.75.192/26      ESC13 Firewall Testers
+mc.kevinwier.com      ESC13 KW-Home
+208.123.73.0/24       NetGate Support
