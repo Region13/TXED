@@ -53,7 +53,6 @@ www.vimondacademy.com
 www.desertmermaidcreations.com
 www.dream-chaser.website
 www.impqtantaou.com
-www.plushora.com
 www.trustfundsprivatebnk.info
 www.xiongmaozx.com
 www.xn--80aaolbtbbbsngde.online
@@ -65,8 +64,9 @@ www.gameashlar.com
 #
 # Timed Out Entries
 #
-# record                       date removed
+# record                       date removed     notes
 #
+# www.plushora.com             2022/02/15       alias - myshopify.com, hosting site including store.esc13.net
 # clampuncture.com             2022/02/15
 # discriminatesection.com      2022/02/15
 # btime1624.duckdns.org        2022/02/15
