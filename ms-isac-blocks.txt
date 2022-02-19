@@ -1,64 +1,68 @@
 #
+# Per higher-up, disabled list on 2/18/2022
+# 
+
+#
 # Permanently Blocked
 #
-bashupload.com
+#bashupload.com
 
 #
 # 2022/Jan/04 TLP: Amber Log4J 
 #
-62.210.205.86
-5.193.208.47
-se1.buttonrich.com
-buttonrich.com
-cf.listencreep.com
+# 62.210.205.86
+# 5.193.208.47
+# se1.buttonrich.com
+# buttonrich.com
+# cf.listencreep.com
 
 #
 # 2022/Feb/15 TxISAO Alert 
 #
-www.enzizs.com
-www.dominostore.club
-www.kukumiou.xyz
-www.minimi36.com
-www.unitedagandruft.com
-www.authoriz5.com
-www.mgav34.xyz
-www.bank338.net
-bekende-nederlanders-naakt.nl
-www.rescuetherescuer.com
-www.tw-moffroad.xyz
-www.domnamarse.store
-www.nosecorrect.com
-www.signaturesea.com
-www.bestsoilforsucculentsinpots.xyz
-www.kyliefitness.com
-www.allseasonfenceandaccess.com
-www.chinajsyjy.com
-www.guestindustrialworking.xyz
-www.ik6bbv.icu
-www.mcmukerian.com
-www.mindthatasset.com
-www.mokkaoffice.com
-www.epifyar.com
-www.ipservicesaggregator.com
-www.jamthink.com
-www.merchant-fundingcorp.com
-www.nutrisukan.com
-www.princealison.top
-www.tmipi.com
-www.ways.express
-www.wellon.digital
-www.sattamatka-143.mobi
-www.verbenalifestyle.com
-www.vimondacademy.com
-www.dream-chaser.website
-www.impqtantaou.com
-www.trustfundsprivatebnk.info
-www.xiongmaozx.com
-www.xn--80aaolbtbbbsngde.online
-stats.doodlegod.com
-content.ivanti.com
-update.helper.2345.cc
-www.gameashlar.com
+# www.enzizs.com
+# www.dominostore.club
+# www.kukumiou.xyz
+# www.minimi36.com
+# www.unitedagandruft.com
+# www.authoriz5.com
+# www.mgav34.xyz
+# www.bank338.net
+# bekende-nederlanders-naakt.nl
+# www.rescuetherescuer.com
+# www.tw-moffroad.xyz
+# www.domnamarse.store
+# www.nosecorrect.com
+# www.signaturesea.com
+# www.bestsoilforsucculentsinpots.xyz
+# www.kyliefitness.com
+# www.allseasonfenceandaccess.com
+# www.chinajsyjy.com
+# www.guestindustrialworking.xyz
+# www.ik6bbv.icu
+# www.mcmukerian.com
+# www.mindthatasset.com
+# www.mokkaoffice.com
+# www.epifyar.com
+# www.ipservicesaggregator.com
+# www.jamthink.com
+# www.merchant-fundingcorp.com
+# www.nutrisukan.com
+# www.princealison.top
+# www.tmipi.com
+# www.ways.express
+# www.wellon.digital
+# www.sattamatka-143.mobi
+# www.verbenalifestyle.com
+# www.vimondacademy.com
+# www.dream-chaser.website
+# www.impqtantaou.com
+# www.trustfundsprivatebnk.info
+# www.xiongmaozx.com
+# www.xn--80aaolbtbbbsngde.online
+# stats.doodlegod.com
+# content.ivanti.com
+# update.helper.2345.cc
+# www.gameashlar.com
 
 #
 # Timed Out Entries
