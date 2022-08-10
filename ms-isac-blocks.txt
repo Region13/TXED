@@ -4,29 +4,7 @@
 # File is distributed to managed firewalls by ESC13
 #
 
-3.12.32.145                7/11/2022
+
 194.31.98.79               7/26/2022
 
-balibuli.hu                7/11/2022
-baykusoglu.com.tr          7/11/2022
-ewingconsulting.com        7/11/2022
-induvit.tlaxcala.gob.mx    7/11/2022
-kentandcowines.com.au      7/11/2022
-starluckycentre.com        7/11/2022
-aieov.com                  7/18/2022
-
-# CyOps Report 7/11/2022
-41.185.8.228               7/11/2022
-87.98.154.146              7/11/2022
-92.87.6.53                 7/11/2022
-112.213.120.81             7/11/2022
-179.43.154.178             7/11/2022
-192.248.158.52             7/11/2022
-636419.selcdn.ru           7/11/2022
-azurenetworksauthx.us      7/11/2022
-caulfieldsouth.com         7/11/2022
-eu1.hubs.ly                7/11/2022
-receive-sms-online.info    7/11/2022
-telemn.com                 7/11/2022
-u27754309.ct.sendgrid.net  7/11/2022
-xdtmw5.codesandbox.io      7/11/2022
+aieov.com                  8/9/2022
