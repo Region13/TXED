@@ -4,7 +4,19 @@
 # File is distributed to managed firewalls by ESC13
 #
 
+193.46.255.54              9/6/2022
+217.79.189.176             9/6/2022
+217.79.189.178             9/6/2022
+218.89.222.39              9/6/2022
+223.71.167.165             9/6/2022
 
-194.31.98.79               7/26/2022
-
-aieov.com                  8/9/2022
+aieov.com                  9/6/2022
+egtobdw.ua                 9/6/2022
+emrdtbx.ua                 9/6/2022
+gjdhcdw.com                9/6/2022
+hop.feen007.at             9/6/2022
+rrlqlzv.com                9/6/2022
+sd.yxofficew.com           9/6/2022
+update.helper.2345.cc      9/6/2022
+www.aieov.com              9/6/2022
+zfdboiu.ua                 9/6/2022
