@@ -4,231 +4,238 @@
 # File is distributed to managed firewalls by ESC13
 #
 
-45.167.178.40                          10/10/2022
-104.208.97.151                         10/10/2022
-108.167.161.247                        10/10/2022
-114.67.92.76                           10/10/2022
-114.67.221.34                          10/10/2022
-116.196.103.96                         10/10/2022
-143.198.174.17                         10/10/2022
-177.39.52.8                            10/10/2022
-177.39.52.32                           10/10/2022
-178.128.121.124                        10/10/2022
-178.170.42.102                         10/10/2022
-188.114.98.173                         10/10/2022
-188.114.99.162                         10/10/2022
-188.114.99.171                         10/10/2022
-192.185.214.90                         10/10/2022
-193.0.178.7                            10/10/2022
-193.106.191.175                        10/10/2022
+##############
+# 09/15/2022 #
+##############
 
-aieov.com                               9/15/2022
-differentia.ru                          9/15/2022
-disorderstatus.ru                       9/15/2022
-expl.intorcafli.art                     9/15/2022
-freedns.afraid.org                      9/15/2022
-image.coloryourcase.com                 9/15/2022
-kol.dsasghqwt.com                       9/15/2022
-rrlqlzv.com                             9/15/2022
-sd.yxofficew.com                        9/15/2022
-seko.vipers.pw                          9/15/2022
-turialopatnds.live                      9/15/2022
-update.helper.2345.cc                   9/15/2022
+aieov.com
+differentia.ru
+disorderstatus.ru
+expl.intorcafli.art
+freedns.afraid.org
+image.coloryourcase.com
+kol.dsasghqwt.com
+rrlqlzv.com
+sd.yxofficew.com
+seko.vipers.pw
+turialopatnds.live
+update.helper.2345.cc
 
-0017c5d8d25c.biz                       10/10/2022
-012guestbook.com                       10/10/2022
-021bi.com                              10/10/2022
-100unionstrong.info                    10/10/2022
-101rollinghillsroad.info               10/10/2022
-107thpsalmchristianfamily.org          10/10/2022
-1080plus.com                           10/10/2022
-10plusinteractive.info                 10/10/2022
-10plusinteractive.org                  10/10/2022
-10two15.info                           10/10/2022
-11website.com                          10/10/2022
-13220.org                              10/10/2022
-14gaugeironworks.com                   10/10/2022
-166100.com                             10/10/2022
-1-800-limo.info                        10/10/2022
-1800painatl.info                       10/10/2022
-1-800waterdamage.info                  10/10/2022
-1apps.net                              10/10/2022
-1gig.net                               10/10/2022
-1k8000.com                             10/10/2022
-1m9t.com                               10/10/2022
-1market.us                             10/10/2022
-1sttimeinvesting.info                  10/10/2022
-200westhighland.com                    10/10/2022
-2013jamboree.com                       10/10/2022
-2068tanglewoodct.info                  10/10/2022
-22rescue.org                           10/10/2022
-24x7okclocksmith.com                   10/10/2022
-26bre.com                              10/10/2022
-2831lakewoodtrail.info                 10/10/2022
-2kissafrog.us                          10/10/2022
-2mrealty.biz                           10/10/2022
-2pacforum.com                          10/10/2022
-2sgx182tai.com                         10/10/2022
-2tailzresq.org                         10/10/2022
-a.nrmovers.ae                          10/10/2022
-ablemoorelocksmith.com                 10/10/2022
-academicfieldtrips.info                10/10/2022
-acelocksmithokc.com                    10/10/2022
-ad22.co                                10/10/2022
-ad35.co                                10/10/2022
-adamjosephdesign.com                   10/10/2022
-aedxdrcb.com                           10/10/2022
-aett.com.br                            10/10/2022
-affordableunlocks.com                  10/10/2022
-antoniosofsimsbury.com                 10/10/2022
-api.ipify.org                          10/10/2022
-archive.enginesend.com                 10/10/2022
-arnani.info                            10/10/2022
-aroomattheinn.com                      10/10/2022
-autodocs.ca                            10/10/2022
-axiomatic-periodical-60c.notion.site   10/10/2022
-basementwaterproofingsite.com          10/10/2022
-benyamino.com                          10/10/2022
-bestpestcontroledmond.com              10/10/2022
-bighydraulicdoors.com                  10/10/2022
-bloomingdale1812.com                   10/10/2022
-brookviewadv.com                       10/10/2022
-bsafelocksmithokc.com                  10/10/2022
-castlelocksmithokc.com                 10/10/2022
-chimpcards.com                         10/10/2022
-classichome.co.za                      10/10/2022
-coastalctpac.com                       10/10/2022
-connect-mark.com                       10/10/2022
-danddcompany.com                       10/10/2022
-danielsrneat.com                       10/10/2022
-dannyserrano.com                       10/10/2022
-dhapac.com                             10/10/2022
-dleb.org                               10/10/2022
-docviewsecureonline.in.net             10/10/2022
-dog-n-cat.com                          10/10/2022
-electricianinokc.com                   10/10/2022
-electrobehineh.com                     10/10/2022
-eliteplusbp.com                        10/10/2022
-elliottssafety.com                     10/10/2022
-encrypteddocument9834384734.info       10/10/2022
-everyoneismusical.com                  10/10/2022
-evethecat.online                       10/10/2022
-ewp.live                               10/10/2022
-fdaaf.org                              10/10/2022
-fearwear.net                           10/10/2022
-foxitsoftware1.com                     10/10/2022
-fredchristens.com                      10/10/2022
-futureseekers.info                     10/10/2022
-gmailc.com                             10/10/2022
-handymanservicesokc.com                10/10/2022
-hdyfhpoi.com                           10/10/2022
-info.inbox-insider.com                 10/10/2022
-intuitivelink.info                     10/10/2022
-iplogger.org                           10/10/2022
-jahin.org                              10/10/2022
-japanhai.com                           10/10/2022
-joywarp.com                            10/10/2022
-kalamazoobibleleague.org               10/10/2022
-kingslocksmithokc.com                  10/10/2022
-labelceres.com                         10/10/2022
-laurita.biz                            10/10/2022
-lauritaexcavating.info                 10/10/2022
-laveenazhomes.com                      10/10/2022
-lawdocs.ca                             10/10/2022
-lawdocs.ca                             10/10/2022
-lendesrchoicedocs.in.net               10/10/2022
-lewek.com                              10/10/2022
-locksmithelreno.com                    10/10/2022
-locksmith-in-edmond.com                10/10/2022
-locksmithinedmondok.com                10/10/2022
-locksmithnorthokc.com                  10/10/2022
-locksmithnwokc.com                     10/10/2022
-locksmith-oklahoma-city.net            10/10/2022
-loginmicroisoufxvmjp5iqoyeowzat6.cf    10/10/2022
-markepape.com                          10/10/2022
-masterdjandsound.net                   10/10/2022
-mayjahwedding.com                      10/10/2022
-mazalstoet.co.za                       10/10/2022
-mcfieldlaw.com                         10/10/2022
-mepape.com                             10/10/2022
-metabusinessanalyst.com                10/10/2022
-mfdf.org                               10/10/2022
-mg.hnry.co.nz                          10/10/2022
-microsoft-alert-call-urgent.in         10/10/2022
-midcanadadocumentconversion.ca         10/10/2022
-mmitgroup.com                          10/10/2022
-mobilewitch.com                        10/10/2022
-modw1.com                              10/10/2022
-myblurryeyes.com                       10/10/2022
-navyamateurradioclub.org               10/10/2022
-neoxtech.net                           10/10/2022
-norman405locksmith.com                 10/10/2022
-ns1.okccarkeyreplacement.com           10/10/2022
-nyranxtbet.info                        10/10/2022
-okccarkeyreplacement.com               10/10/2022
-okc-locksmith-service.com              10/10/2022
-oklahomacity405locksmith.com           10/10/2022
-onexuan.com                            10/10/2022
-painel.odara.com.br                    10/10/2022
-pakarabi.net                           10/10/2022
-petitegirlporn.com                     10/10/2022
-phoenixsports.org                      10/10/2022
-phxsports.org                          10/10/2022
-pinkhousekey.com                       10/10/2022
-planmyincome.info                      10/10/2022
-plumberokc.net                         10/10/2022
-politicalsyfy.org                      10/10/2022
-portaldocuments.in.net                 10/10/2022
-primuslocksmithokc.com                 10/10/2022
-quickstartcharts.com                   10/10/2022
-rggn.com.br                            10/10/2022
-rhelper.com                            10/10/2022
-sad-sipunculid.herokuapp.com           10/10/2022
-scanned.ca                             10/10/2022
-scansource.ca                          10/10/2022
-securdocumentshared93743.info          10/10/2022
-seswinnetwork.com                      10/10/2022
-sex-nw-7.com                           10/10/2022
-sexyasiantubes.com                     10/10/2022
-sfstravels.com                         10/10/2022
-sharedocument.texasspipe.com           10/10/2022
-sharepointonlinepotal.click            10/10/2022
-stonepalace.com.tr                     10/10/2022
-storageapi.fleek.co                    10/10/2022
-successblast.com                       10/10/2022
-sundeckcovervancouver.com              10/10/2022
-tdfleming.net                          10/10/2022
-testelite2.us                          10/10/2022
-tgtechlabs.com                         10/10/2022
-thats-so-hip.com                       10/10/2022
-thedsdstudio.com                       10/10/2022
-track788.com                           10/10/2022
-triquesta.com                          10/10/2022
-tulsaoklocksmith.com                   10/10/2022
-unitedstand.z13.web.core.windows.net   10/10/2022
-victorylifestyle.org                   10/10/2022
-www.affordableunlocks.com              10/10/2022
-www.bsafelocksmithokc.com              10/10/2022
-www.castlelocksmithokc.com             10/10/2022
-www.electricianinokc.com               10/10/2022
-www.foxitsoftware1.com                 10/10/2022
-www.foxitsoftware1.com                 10/10/2022
-www.foxitsoftware1.com                 10/10/2022
-www.handymanservicesokc.com            10/10/2022
-www.hirehackersonline.com              10/10/2022
-www.kingslocksmithokc.com              10/10/2022
-www.locksmithelreno.com                10/10/2022
-www.locksmithinedmondok.com            10/10/2022
-www.locksmithnorthokc.com              10/10/2022
-www.locksmithnwokc.com                 10/10/2022
-www.locksmith-oklahoma-city.net        10/10/2022
-www.norman405locksmith.com             10/10/2022
-www.okccarkeyreplacement.com           10/10/2022
-www.okc-locksmith-service.com          10/10/2022
-www.oklahomacity405locksmith.com       10/10/2022
-www.primuslocksmithokc.com             10/10/2022
-www.tulsaoklocksmith.com               10/10/2022
-youaremusical.com                      10/10/2022
-yusercontent.com                       10/10/2022
-zcvf-zcglf.mailli                      10/10/2022
-zcvf-zcglf.maillist-manage.com         10/10/2022
+##############
+# 10/10/2022 #
+##############
+
+45.167.178.40
+104.208.97.151
+108.167.161.247
+114.67.92.76
+114.67.221.34
+116.196.103.96
+143.198.174.17
+177.39.52.8
+177.39.52.32
+178.128.121.124
+178.170.42.102
+188.114.98.173
+188.114.99.162
+188.114.99.171
+192.185.214.90
+193.0.178.7
+193.106.191.175
+0017c5d8d25c.biz
+012guestbook.com
+021bi.com
+100unionstrong.info
+101rollinghillsroad.info
+107thpsalmchristianfamily.org
+1080plus.com
+10plusinteractive.info
+10plusinteractive.org
+10two15.info
+11website.com
+13220.org
+14gaugeironworks.com
+166100.com
+1-800-limo.info
+1800painatl.info
+1-800waterdamage.info
+1apps.net
+1gig.net
+1k8000.com
+1m9t.com
+1market.us
+1sttimeinvesting.info
+200westhighland.com
+2013jamboree.com
+2068tanglewoodct.info
+22rescue.org
+24x7okclocksmith.com
+26bre.com
+2831lakewoodtrail.info
+2kissafrog.us
+2mrealty.biz
+2pacforum.com
+2sgx182tai.com
+2tailzresq.org
+a.nrmovers.ae
+ablemoorelocksmith.com
+academicfieldtrips.info
+acelocksmithokc.com
+ad22.co
+ad35.co
+adamjosephdesign.com
+aedxdrcb.com
+aett.com.br
+affordableunlocks.com
+antoniosofsimsbury.com
+api.ipify.org
+archive.enginesend.com
+arnani.info
+aroomattheinn.com
+autodocs.ca
+axiomatic-periodical-60c.notion.site
+basementwaterproofingsite.com
+benyamino.com
+bestpestcontroledmond.com
+bighydraulicdoors.com
+bloomingdale1812.com
+brookviewadv.com
+bsafelocksmithokc.com
+castlelocksmithokc.com
+chimpcards.com
+classichome.co.za
+coastalctpac.com
+connect-mark.com
+danddcompany.com
+danielsrneat.com
+dannyserrano.com
+dhapac.com
+dleb.org
+docviewsecureonline.in.net
+dog-n-cat.com
+electricianinokc.com
+electrobehineh.com
+eliteplusbp.com
+elliottssafety.com
+encrypteddocument9834384734.info
+everyoneismusical.com
+evethecat.online
+ewp.live
+fdaaf.org
+fearwear.net
+foxitsoftware1.com
+fredchristens.com
+futureseekers.info
+gmailc.com
+handymanservicesokc.com
+hdyfhpoi.com
+info.inbox-insider.com
+intuitivelink.info
+iplogger.org
+jahin.org
+japanhai.com
+joywarp.com
+kalamazoobibleleague.org
+kingslocksmithokc.com
+labelceres.com
+laurita.biz
+lauritaexcavating.info
+laveenazhomes.com
+lawdocs.ca
+lawdocs.ca
+lendesrchoicedocs.in.net
+lewek.com
+locksmithelreno.com
+locksmith-in-edmond.com
+locksmithinedmondok.com
+locksmithnorthokc.com
+locksmithnwokc.com
+locksmith-oklahoma-city.net
+loginmicroisoufxvmjp5iqoyeowzat6.cf
+markepape.com
+masterdjandsound.net
+mayjahwedding.com
+mazalstoet.co.za
+mcfieldlaw.com
+mepape.com
+metabusinessanalyst.com
+mfdf.org
+mg.hnry.co.nz
+microsoft-alert-call-urgent.in
+midcanadadocumentconversion.ca
+mmitgroup.com
+mobilewitch.com
+modw1.com
+myblurryeyes.com
+navyamateurradioclub.org
+neoxtech.net
+norman405locksmith.com
+ns1.okccarkeyreplacement.com
+nyranxtbet.info
+okccarkeyreplacement.com
+okc-locksmith-service.com
+oklahomacity405locksmith.com
+onexuan.com
+painel.odara.com.br
+pakarabi.net
+petitegirlporn.com
+phoenixsports.org
+phxsports.org
+pinkhousekey.com
+planmyincome.info
+plumberokc.net
+politicalsyfy.org
+portaldocuments.in.net
+primuslocksmithokc.com
+quickstartcharts.com
+rggn.com.br
+rhelper.com
+sad-sipunculid.herokuapp.com
+scanned.ca
+scansource.ca
+securdocumentshared93743.info
+seswinnetwork.com
+sex-nw-7.com
+sexyasiantubes.com
+sfstravels.com
+sharedocument.texasspipe.com
+sharepointonlinepotal.click
+stonepalace.com.tr
+storageapi.fleek.co
+successblast.com
+sundeckcovervancouver.com
+tdfleming.net
+testelite2.us
+tgtechlabs.com
+thats-so-hip.com
+thedsdstudio.com
+track788.com
+triquesta.com
+tulsaoklocksmith.com
+unitedstand.z13.web.core.windows.net
+victorylifestyle.org
+www.affordableunlocks.com
+www.bsafelocksmithokc.com
+www.castlelocksmithokc.com
+www.electricianinokc.com
+www.foxitsoftware1.com
+www.foxitsoftware1.com
+www.foxitsoftware1.com
+www.handymanservicesokc.com
+www.hirehackersonline.com
+www.kingslocksmithokc.com
+www.locksmithelreno.com
+www.locksmithinedmondok.com
+www.locksmithnorthokc.com
+www.locksmithnwokc.com
+www.locksmith-oklahoma-city.net
+www.norman405locksmith.com
+www.okccarkeyreplacement.com
+www.okc-locksmith-service.com
+www.oklahomacity405locksmith.com
+www.primuslocksmithokc.com
+www.tulsaoklocksmith.com
+youaremusical.com
+yusercontent.com
+zcvf-zcglf.mailli
+zcvf-zcglf.maillist-manage.com
