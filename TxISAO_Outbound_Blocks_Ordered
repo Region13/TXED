@@ -1,0 +1,10 @@
+# 
+# In accordance with the Governor Greg Abbott’s directive to block access to prohibited technologies and their affiliated companies from state networks,
+# this is the combined list provided as of 2/9/2023 from Tx DIR.
+#
+# File is distributed to managed firewalls by ESC13
+#
+
+# Kaspersky
+185.85.15.0/24
+103.5.149.37
