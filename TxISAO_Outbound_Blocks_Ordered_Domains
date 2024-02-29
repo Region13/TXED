@@ -1,385 +1,237 @@
 # 
 # In accordance with the Governor Greg Abbott’s directive to block access to prohibited technologies and their affiliated companies from state networks,
-# this is the combined list provided as of 2/9/2023 from Tx DIR.
+# this is the combined list provided as of 2024-02-29 from Tx DIR.
 #
 # File is distributed to managed firewalls by ESC13
 #
-# tiktok.pw - blocking teksbook.com
 
-# Alibaba
-
-# ByteDance
-bytedance.com.
-chemchina.com.
-douyin.com.
-huaweicloud-dns.org.
-sogou.com.
-VIP3.ALIDNS.COM.
-VIP4.ALIDNS.COM.
-
-# CamScanner
-camscanner.com.
-NS-234.AWSDNS-CN-14.COM.
-NS-2869.AWSDNS-CN-51.BIZ.
-
-# DahuaTech
-7s.dahuasecurity.com.
-8s.dahuasecurity.com.
-es.dahuasecurity.com.
-hs.dahuasecurity.com.
-js.dahuasecurity.com.
-s.dahuasecurity.com.
-u.dahuasecurity.com.
-u.s.dahuasecurity.com.
-ua.dahuasecurity.com.
-uas.dahuasecurity.com.
-ud.dahuasecurity.com.
-uds.dahuasecurity.com.
-ue.dahuasecurity.com.
-uq.dahuasecurity.com.
-us.da.huasecurity.com.
-us.dahasecurity.com.
-us.dahu.asecurity.com.
-us.dahua.security.com.
-us.dahuaasecurity.com.
-us.dahuas.ecurity.com.
-us.dahuase.curity.com.
-us.dahuasec.urity.com.
-us.dahuasecu.rity.com.
-us.dahuasecur.ity.com.
-us.dahuasecuri.ty.com.
-us.dahuasecurit.y.com.
-us.dahusecurity.com.
-us.dauasecurity.com.
-us.dauhasecurity.com.
-us.dhuasecurity.com.
-usd.dahuasecurity.com.
-use.dahuasecurity.com.
-uss.dahuasecurity.com.
-usw.dahuasecurity.com.
-usz.dahuasecurity.com.
-uus.dahuasecurity.com.
-uw.dahuasecurity.com.
-ux.dahuasecurity.com.
-uy.dahuasecurity.com.
-uz.dahuasecurity.com.
-uzs.dahuasecurity.com.
-ys.dahuasecurity.com.
-zs.dahuasecurity.com.
-
-# HangzhouHikvision
-hikvision.com.
-
-# Huawei
-
-# Hytera Communications
-hytera.us.
-
-# Kaspersky
-kaspersky.au.
-kaspersky.ca.
-kaspersky.de.
-kaspersky.dk.
-kaspersky.hk.
-kaspersky.pt.
-kaspersky-labs.com.
-usa.kaspersky.com.
-
-# SHAREit
-ashareit.com.
-eshareit.com.
-ishareit.com.
-jshareit.com.
-mx7.ushereit.com.
-shareit.com.
-u.shareit.com.
-uahareit.com.
-udhareit.com.
-uhareit.com.
-us.hareit.com.
-usahareit.com.
-usahreit.com.
-usareit.com.
-ush.areit.com.
-usha.reit.com.
-ushaareit.com.
-ushaeit.com.
-ushaereit.com.
-ushaerit.com.
-ushar.eit.com.
-ushare.it.com.
-usharedit.com.
-ushareeit.com.
-usharei.com.
-usharei.t.com.
-ushareir.com.
-ushare-it.com.
-u-shareit.com.
-ushareiy.com.
-ushareot.com.
-usharerit.com.
-usharet.com.
-ushareti.com.
-ushareut.com.
-ushariet.com.
-usharit.com.
-usharreit.com.
-ushateit.com.
-ushereit.com.
-ushhareit.com.
-ushireit.com.
-ushreit.com.
-ushsareit.com.
-ushsreit.com.
-usshareit.com.
-uushareit.com.
-wshareit.com.
-yshareit.com.
-zshareit.com.
-mxhichina.com.
-oshareit.com.
-ushareit.com.
-ushareot.com.
-
-# SZ DJI Tech
-dji.com.
-phidji.com.
-ytvvrdrhfscrdji.com.
-djicorp.com.
-theechidna.com.au.
-contact-a.segurosinter.uatbi.com.br.
-pm-bb.segurosinter.uatbi.com.br.
-pp.2015.segurosinter.uatbi.com.br.
-loopback.domains.segurosinter.uatbi.com.br.
-shop.flixbus.at.
-shop.flixbus.be.
-shop.flixbus.ba.
-atl56-c1.sellmymobile.com.
-shop.flixbus.al.
-b4b-art.segurosinter.uatbi.com.br.
-gateway.segurosinter.uatbi.com.br.
-olayan-kimberlyclark.com.m.sellmymobile.com.
-mitsuifudosangroup.tt.sellmymobile.com.
-jeanniescott.sellmymobile.com.
-klabbarparn.sellmymobile.com.
-ameritrade197.226.222.sellmymobile.com.
-kimberly-clark.cl.m.sellmymobile.com.
-routingjaccs.sellmymobile.com.
-sitecore-jaccs.sellmymobile.com.
-olympiad.130142.sellmymobile.com.
-anyware.wpcdn.sellmymobile.com.
-tokyo2020.sellmymobile.com.
-glax.sellmymobile.com.
-ameritrade142.sellmymobile.com.
-
-# Tencent Holdings
-
-# TikTok
-tiktok.academy.
-tiktok.ag.
-tiktok.ai.
-tiktok.al.
-tiktok.am.
-tiktok.ao.
-tiktok.at.
-tiktok.az.
-tiktok.ba.
-tiktok.bg.
-tiktok.bh.
-tiktok.biz.
-tiktok.by.
-tiktok.ca.
-tiktok.cam.
-tiktok.cc.
-tiktok.cf.
-tiktok.ch.
-tiktok.cheap.
-tiktok.ci.
-tiktok.cl.
-tiktok.cm.
-tiktok.cn.
-tiktok.co.
-tiktok.co.
-tiktok.com.
-tiktok.cx.
-tiktok.cz.
-tiktok.de.
-tiktok.deals.
-tiktok.dk.
-tiktok.do.
-tiktok.ec.
-tiktok.ee.
-tiktok.es.
-tiktok.et.
-tiktok.eu.
-tiktok.fi.
-tiktok.film.
-tiktok.fm.
-tiktok.fr.
-tiktok.games.
-tiktok.gd.
-tiktok.ge.
-tiktok.gl.
-tiktok.global.
-tiktok.gs.
-tiktok.gt.
-tiktok.gy.
-tiktok.health.
-tiktok.hk.
-tiktok.hn.
-tiktok.hu.
-tiktok.icu.
-tiktok.id.
-tiktok.ie.
-tiktok.im.
-tiktok.io.
-tiktok.ir.
-tiktok.it.
-tiktok.jp.
-tiktok.kg.
-tiktok.kr.
-tiktok.kz.
-tiktok.la.
-tiktok.land.
-tiktok.lc.
-tiktok.lgbt.
-tiktok.li.
-tiktok.link.
-tiktok.lk.
-tiktok.lt.
-tiktok.lt.
-tiktok.lu.
-tiktok.lv.
-tiktok.ly.
-tiktok.ly.
-tiktok.ma.
-tiktok.makeup.
-tiktok.md.
-tiktok.mg.
-tiktok.mk.
-tiktok.ml.
-tiktok.mn.
-tiktok.mx.
-tiktok.my.
-tiktok.name.
-tiktok.net.
-tiktok.news.
-tiktok.ninja.
-tiktok.nl.
-tiktok.no.
-tiktok.nu.
-tiktok.online.
-tiktok.page.
-tiktok.pe.
-tiktok.ph.
-tiktok.photo.
-tiktok.pics.
-tiktok.pics.
-tiktok.pizza.
-tiktok.pk.
-tiktok.pl.
-tiktok.poker.
-tiktok.ps.
-tiktok.re.
-tiktok.ro.
-tiktok.rs.
-tiktok.ru.
-tiktok.se.
-tiktok.si.
-tiktok.sk.
-tiktok.st.
-tiktok.sucks.
-tiktok.sx.
-tiktok.tn.
-tiktok.to.
-tiktok.top.
-tiktok.tt.
-tiktok.tube.
-tiktok.tv.
-tiktok.tw.
-tiktok.ua.
-tiktok.us.
-tiktok.uz.
-tiktok.vc.
-tiktok.vn.
-tiktok.xyz.
-tiktok.yt.
-tiktokv.com.
-
-# WeChat
-521wei.xin.
-joox.com.
-mxbiz1.qq.com.
-mxbiz2.qq.com.
-NS1.WECHAT.COM.
-NS2.WECHAT.COM.
-NS3.WECHAT.COM.
-NS4.WECHAT.COM.
-qq.com.
-qq.com.
-qq.com.cn.
-recyclelife.cn.
-w.url.cn.
-wechat.com.
-wechatapp.com.
-xiangcaijun.top.
-
-# WPSOOffice
-advivienddaperwp.s.com.
-d.avivienddaperwp.s.com.
-da.vivienddaperwp.s.com.
-daivvienddaperwp.s.com.
-dav.ivienddaperwp.s.com.
-davavienddaperwp.s.com.
-davevienddaperwp.s.com.
-davi.vienddaperwp.s.com.
-daviivenddaperwp.s.com.
-daviv.ienddaperwp.s.com.
-davivaenddaperwp.s.com.
-daviveenddaperwp.s.com.
-daviveinddaperwp.s.com.
-davivi.enddaperwp.s.com.
-davivianddaperwp.s.com.
-davivie.nddaperwp.s.com.
-daviviedndaperwp.s.com.
-davivien.ddaperwp.s.com.
-daviviend.daperwp.s.com.
-daviviendadperwp.s.com.
-daviviendd.aperwp.s.com.
-daviviendda.perwp.s.com.
-davivienddaeprwp.s.com.
-davivienddap.erwp.s.com.
-davivienddaparwp.s.com.
-davivienddape.rwps.com.
-davivienddaper.wps.com.
-davivienddaperpw.s.com.
-davivienddaperw.ps.com.
-davivienddaperwp.s.com.
-davivienddapewrp.s.com.
-davivienddapirwp.s.com.
-davivienddaporwp.s.com.
-davivienddaprewp.s.com.
-davivienddapurwp.s.com.
-davivienddeperwp.s.com.
-davivienddiperwp.s.com.
-davivienddoperwp.s.com.
-davivienddpaerwp.s.com.
-daviviendduperwp.s.com.
-daviviinddaperwp.s.com.
-davivineddaperwp.s.com.
-davivionddaperwp.s.com.
-daviviunddaperwp.s.com.
-davivoenddaperwp.s.com.
-davivuenddaperwp.s.com.
-davovienddaperwp.s.com.
-davuvienddaperwp.s.com.
-davviienddaperwp.s.com.
-devivienddaperwp.s.com.
-divivienddaperwp.s.com.
-dovivienddaperwp.s.com.
-duvivienddaperwp.s.com.
-dvaivienddaperwp.s.com.
-wps.com.
-
-# ZTECorp
-zte.com.cn.
+ns1.magpiedns.com. ByeSpider
+ns2.magpiedns.com. ByeSpider
+ns-usa.topdns.com. ByeSpider
+ns-uk.topdns.com. ByeSpider
+ns-canada.topdns.com. ByeSpider
+myhostadmin.net. ByeSpider
+quokkadns.com. ByeSpider
+hcdnl.pulltiktok.ovc.gslb.rocket-cdn.com. ByteDance
+tiktokcdn.com.rocket-cdn.com. ByteDance
+bytedance.com. ByteDance
+chemchina.com. ByteDance
+douyin.com. ByteDance
+huaweicloud-dns.org. ByteDance
+ibytedtos.com. ByteDance
+lemon8-app.com. ByteDance
+sogou.com. ByteDance
+tiktokcdn.com. ByteDance
+VIP3.ALIDNS.COM. ByteDance
+VIP4.ALIDNS.COM. ByteDance
+camscanner.com. CamScanner
+NS-234.AWSDNS-CN-14.COM. CamScanner
+NS-2869.AWSDNS-CN-51.BIZ. CamScanner
+7s.dahuasecurity.com. DahuaTech
+8s.dahuasecurity.com. DahuaTech
+es.dahuasecurity.com. DahuaTech
+hs.dahuasecurity.com. DahuaTech
+js.dahuasecurity.com. DahuaTech
+s.dahuasecurity.com. DahuaTech
+u.dahuasecurity.com. DahuaTech
+u.s.dahuasecurity.com. DahuaTech
+ua.dahuasecurity.com. DahuaTech
+uas.dahuasecurity.com. DahuaTech
+ud.dahuasecurity.com. DahuaTech
+uds.dahuasecurity.com. DahuaTech
+ue.dahuasecurity.com. DahuaTech
+uq.dahuasecurity.com. DahuaTech
+us.da.huasecurity.com. DahuaTech
+us.dahasecurity.com. DahuaTech
+us.dahu.asecurity.com. DahuaTech
+us.dahua.security.com. DahuaTech
+us.dahuaasecurity.com. DahuaTech
+us.dahuas.ecurity.com. DahuaTech
+us.dahuase.curity.com. DahuaTech
+us.dahuasec.urity.com. DahuaTech
+us.dahuasecu.rity.com. DahuaTech
+us.dahuasecur.ity.com. DahuaTech
+us.dahuasecuri.ty.com. DahuaTech
+us.dahuasecurit.y.com. DahuaTech
+us.dahusecurity.com. DahuaTech
+us.dauasecurity.com. DahuaTech
+us.dauhasecurity.com. DahuaTech
+us.dhuasecurity.com. DahuaTech
+usd.dahuasecurity.com. DahuaTech
+use.dahuasecurity.com. DahuaTech
+uss.dahuasecurity.com. DahuaTech
+usw.dahuasecurity.com. DahuaTech
+usz.dahuasecurity.com. DahuaTech
+uus.dahuasecurity.com. DahuaTech
+uw.dahuasecurity.com. DahuaTech
+ux.dahuasecurity.com. DahuaTech
+uy.dahuasecurity.com. DahuaTech
+uz.dahuasecurity.com. DahuaTech
+uzs.dahuasecurity.com. DahuaTech
+ys.dahuasecurity.com. DahuaTech
+zs.dahuasecurity.com. DahuaTech
+hikvision.com. HangzhouHikvision
+hytera.us. HyteraCommunications
+kaspersky.au. Kaspersky
+kaspersky.ca. Kaspersky
+kaspersky.de. Kaspersky
+kaspersky.dk. Kaspersky
+kaspersky.hk. Kaspersky
+kaspersky.pt. Kaspersky
+kaspersky-labs.com. Kaspersky
+usa.kaspersky.com. Kaspersky
+ashareit.com. SHAREit
+eshareit.com. SHAREit
+ishareit.com. SHAREit
+jshareit.com. SHAREit
+mx7.ushereit.com. SHAREit
+mxhichina.com. SHAREit
+oshareit.com. SHAREit
+shareit.com. SHAREit
+u.shareit.com. SHAREit
+uahareit.com. SHAREit
+udhareit.com. SHAREit
+uhareit.com. SHAREit
+us.hareit.com. SHAREit
+usahareit.com. SHAREit
+usahreit.com. SHAREit
+usareit.com. SHAREit
+ush.areit.com. SHAREit
+usha.reit.com. SHAREit
+ushaareit.com. SHAREit
+ushaeit.com. SHAREit
+ushaereit.com. SHAREit
+ushaerit.com. SHAREit
+ushar.eit.com. SHAREit
+ushare.it.com. SHAREit
+usharedit.com. SHAREit
+ushareeit.com. SHAREit
+usharei.com. SHAREit
+usharei.t.com. SHAREit
+ushareir.com. SHAREit
+ushareit.com. SHAREit
+ushare-it.com. SHAREit
+u-shareit.com. SHAREit
+ushareiy.com. SHAREit
+ushareot.com. SHAREit
+ushareot.com. SHAREit
+usharerit.com. SHAREit
+usharet.com. SHAREit
+ushareti.com. SHAREit
+ushareut.com. SHAREit
+ushariet.com. SHAREit
+usharit.com. SHAREit
+usharreit.com. SHAREit
+ushateit.com. SHAREit
+ushereit.com. SHAREit
+ushhareit.com. SHAREit
+ushireit.com. SHAREit
+ushreit.com. SHAREit
+ushsareit.com. SHAREit
+ushsreit.com. SHAREit
+usshareit.com. SHAREit
+uushareit.com. SHAREit
+wshareit.com. SHAREit
+yshareit.com. SHAREit
+zshareit.com. SHAREit
+ameritrade142.sellmymobile.com. SZ DJI Tech
+ameritrade197.226.222.sellmymobile.com. SZ DJI Tech
+anyware.wpcdn.sellmymobile.com. SZ DJI Tech
+atl56-c1.sellmymobile.com. SZ DJI Tech
+b4b-art.segurosinter.uatbi.com.br. SZ DJI Tech
+contact-a.segurosinter.uatbi.com.br. SZ DJI Tech
+dji.com. SZ DJI Tech
+djicorp.com. SZ DJI Tech
+gateway.segurosinter.uatbi.com.br. SZ DJI Tech
+glax.sellmymobile.com. SZ DJI Tech
+jeanniescott.sellmymobile.com. SZ DJI Tech
+kimberly-clark.cl.m.sellmymobile.com. SZ DJI Tech
+klabbarparn.sellmymobile.com. SZ DJI Tech
+loopback.domains.segurosinter.uatbi.com.br. SZ DJI Tech
+mitsuifudosangroup.tt.sellmymobile.com. SZ DJI Tech
+olayan-kimberlyclark.com.m.sellmymobile.com. SZ DJI Tech
+olympiad.130142.sellmymobile.com. SZ DJI Tech
+phidji.com. SZ DJI Tech
+pm-bb.segurosinter.uatbi.com.br. SZ DJI Tech
+pp.2015.segurosinter.uatbi.com.br. SZ DJI Tech
+routingjaccs.sellmymobile.com. SZ DJI Tech
+shop.flixbus.al. SZ DJI Tech
+shop.flixbus.at. SZ DJI Tech
+shop.flixbus.ba. SZ DJI Tech
+shop.flixbus.be. SZ DJI Tech
+sitecore-jaccs.sellmymobile.com. SZ DJI Tech
+theechidna.com.au. SZ DJI Tech
+tokyo2020.sellmymobile.com. SZ DJI Tech
+ytvvrdrhfscrdji.com. SZ DJI Tech
+521wei.xin. WeChat
+joox.com. WeChat
+mxbiz1.qq.com. WeChat
+mxbiz2.qq.com. WeChat
+NS1.WECHAT.COM. WeChat
+NS2.WECHAT.COM. WeChat
+NS3.WECHAT.COM. WeChat
+NS4.WECHAT.COM. WeChat
+qq.com. WeChat
+qq.com. WeChat
+qq.com.cn. WeChat
+recyclelife.cn. WeChat
+w.url.cn. WeChat
+wechat.com. WeChat
+wechatapp.com. WeChat
+xiangcaijun.top. WeChat
+advivienddaperwp.s.com. WPSOOffice
+d.avivienddaperwp.s.com. WPSOOffice
+da.vivienddaperwp.s.com. WPSOOffice
+daivvienddaperwp.s.com. WPSOOffice
+dav.ivienddaperwp.s.com. WPSOOffice
+davavienddaperwp.s.com. WPSOOffice
+davevienddaperwp.s.com. WPSOOffice
+davi.vienddaperwp.s.com. WPSOOffice
+daviivenddaperwp.s.com. WPSOOffice
+daviv.ienddaperwp.s.com. WPSOOffice
+davivaenddaperwp.s.com. WPSOOffice
+daviveenddaperwp.s.com. WPSOOffice
+daviveinddaperwp.s.com. WPSOOffice
+davivi.enddaperwp.s.com. WPSOOffice
+davivianddaperwp.s.com. WPSOOffice
+davivie.nddaperwp.s.com. WPSOOffice
+daviviedndaperwp.s.com. WPSOOffice
+davivien.ddaperwp.s.com. WPSOOffice
+daviviend.daperwp.s.com. WPSOOffice
+daviviendadperwp.s.com. WPSOOffice
+daviviendd.aperwp.s.com. WPSOOffice
+daviviendda.perwp.s.com. WPSOOffice
+davivienddaeprwp.s.com. WPSOOffice
+davivienddap.erwp.s.com. WPSOOffice
+davivienddaparwp.s.com. WPSOOffice
+davivienddape.rwps.com. WPSOOffice
+davivienddaper.wps.com. WPSOOffice
+davivienddaperpw.s.com. WPSOOffice
+davivienddaperw.ps.com. WPSOOffice
+davivienddaperwp.s.com. WPSOOffice
+davivienddapewrp.s.com. WPSOOffice
+davivienddapirwp.s.com. WPSOOffice
+davivienddaporwp.s.com. WPSOOffice
+davivienddaprewp.s.com. WPSOOffice
+davivienddapurwp.s.com. WPSOOffice
+davivienddeperwp.s.com. WPSOOffice
+davivienddiperwp.s.com. WPSOOffice
+davivienddoperwp.s.com. WPSOOffice
+davivienddpaerwp.s.com. WPSOOffice
+daviviendduperwp.s.com. WPSOOffice
+daviviinddaperwp.s.com. WPSOOffice
+davivineddaperwp.s.com. WPSOOffice
+davivionddaperwp.s.com. WPSOOffice
+daviviunddaperwp.s.com. WPSOOffice
+davivoenddaperwp.s.com. WPSOOffice
+davivuenddaperwp.s.com. WPSOOffice
+davovienddaperwp.s.com. WPSOOffice
+davuvienddaperwp.s.com. WPSOOffice
+davviienddaperwp.s.com. WPSOOffice
+devivienddaperwp.s.com. WPSOOffice
+divivienddaperwp.s.com. WPSOOffice
+dovivienddaperwp.s.com. WPSOOffice
+duvivienddaperwp.s.com. WPSOOffice
+dvaivienddaperwp.s.com. WPSOOffice
+wps.com. WPSOOffice
+zte.com.cn. ZTECorp
