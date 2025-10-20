@@ -1,7 +1,6 @@
 198.97.62.8/29        ESC13 Tech
 104.153.243.232/29    ESC13 Monitoring
 208.80.75.192/26      ESC13 Firewall Testers
-mc.kevinwier.com      ESC13 KW Spicewood Home
-208.123.73.0/24       NetGate Support
-glpkww.freeddns.org   ESC13 KW Pflugerville Home
-136.62.104.234        Matt home
+glpkww.freeddns.org   ESC13 KW Hutto
+# 208.123.73.0/24       NetGate Support
+# mc.kevinwier.com      ESC13 KW Spicewood Home
