@@ -13,3 +13,4 @@ gemsocl.com
 asireward.com
 c.pki.goog
 yelahaye.surf
+202.112.47.54/32
