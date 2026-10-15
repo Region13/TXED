@@ -4,13 +4,6 @@
 # File is distributed to managed firewalls by ESC13
 #
 
-analysis-id-fmd.info
-socialseoguru.com
-tearpopfilegetfast.monster
-ipinfo.io
-yr2.c.lencr.org
-gemsocl.com
-asireward.com
-c.pki.goog
+
 yelahaye.surf
 202.112.47.54/32
